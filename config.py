@@ -1,6 +1,0 @@
-consumer_key="oLrdMatxYBNySabIAX5Blvb7K"
-consumer_secret="nnUJACiQBjW5HNvBKhp0fVxN8ke8x0gmm5nbccCqGCRDHiLu9N"
-access_token="242986063-uL7hUUGbD0s4xU7ECUlo4HR3aubZ2uRHLET5uhVu"
-access_token_secret="38I1hxumw5YqnvHjnO4cRQClVY6UtuNcbV1bjjTuQgZ0H"
-
-api_key = "25bc90a1196e6f153eece0bc0b0fc9eb"
